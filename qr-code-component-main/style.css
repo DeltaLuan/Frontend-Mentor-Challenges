@@ -1,0 +1,59 @@
+html {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    font-family: Outfit;
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+}
+
+#card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 15px;
+}
+
+#qrcode {
+    border-radius: 15px;
+    margin-top: 18px;
+    width: 90%;
+    height: 320px;
+}
+
+#text, #header {
+    max-width: 375px;
+}
+
+#header {
+    width: 90%;
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: auto;
+}
+
+#text {
+    width: 80%;
+    margin: 20px 0 40px 0;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    font-size: 16px;
+}
+
+#attribution { 
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    font-size: 15px;
+ }
+ 
+#attribution a { color: hsl(228, 45%, 44%); }
