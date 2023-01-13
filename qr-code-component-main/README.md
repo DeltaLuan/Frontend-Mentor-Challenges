@@ -10,8 +10,8 @@ Isto é uma solução do [QR code component challenge no Frontend Mentor](https:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-Mg2X69X741)
-- Live Site URL: [Add live site URL here](https://fanciful-tapioca-9833af.netlify.app/)
+- Solution URL: [Solução do desafio](https://www.frontendmentor.io/solutions/qr-code-component-Mg2X69X741)
+- Live Site URL: [Site](https://fanciful-tapioca-9833af.netlify.app/)
 
 ## Processo de construção
 
