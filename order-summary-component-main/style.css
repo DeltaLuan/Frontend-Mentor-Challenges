@@ -1,0 +1,89 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: hsl(225, 100%, 94%) url(./images/pattern-background-desktop.svg) no-repeat;
+    font-family: 'Red Hat Display';
+    font-size: 16px;
+}
+
+h1 {
+    font-weight: 900 bolder; 
+    color: hsl(223, 47%, 23%);
+}
+
+a { color: hsl(245, 75%, 52);}
+
+p {
+    color: hsl(224, 23%, 55%);
+    font-weight: 700;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    width: 450px;
+    background-color: white;
+}
+
+#img-header { border-radius: 15px 15px 0 0;}
+
+#text, #box, #button {
+    margin: auto;
+    max-width: 75%;
+}
+
+#box{
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    padding: 10px 0;
+    background-color: hsl(225, 100%, 98%);
+}
+
+#icon, #plan { margin: 10px;}
+
+#icon { margin-left: 25px;}
+
+#plan p { margin: 3px 0 3px 0;}
+
+#change {
+    text-align: center;
+    margin-left: 70px;
+    padding: 25px 0;
+}
+
+#header-plan {
+    color: hsl(223, 47%, 23%);
+    font-weight: 700;
+}
+
+#button {
+    border-radius: 10px;
+    margin-top: 30px;
+    padding: 2px 0;
+    background-color: hsl(245, 75%, 52%);
+    box-shadow: 0 20px 10px hsl(225, 100%, 94%);
+}
+
+#button p { color: hsl(225, 100%, 94%);}
+
+#cancel {
+    margin: 30px 0 30px 0;
+    font-weight: 900;
+}
+.attribution {    
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    font-size: 12px; 
+}
+
+.attribution a { color: hsl(228, 45%, 44%); }
