@@ -10,8 +10,8 @@ Isto é uma solução do [Order summary card challenge on Frontend Mentor](https
 
 ### Links 
 
-- Solution URL: [Solução do desafio]()
-- Live Site URL: [Site]()
+- Solution URL: [Solução do desafio](https://www.frontendmentor.io/solutions/order-summary-with-active-states-maked-with-css-and-flexbox-UEo5UdJDgG)
+- Live Site URL: [Site](https://stately-llama-02c634.netlify.app/)
 
 ## Processo de construção
 
